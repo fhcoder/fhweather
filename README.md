@@ -129,13 +129,13 @@ OBS: *Configure atributo <code>data-woeid=""</code> de acordo com o woeid da cid
 Para prever os próximos dias, basta acrescentar um indice ao valor do atributo desejado,
 por exemplo:
 
-<code>data-tempo="temperatura-1"</code> -> Exibe a temperatura de amanha
+<code>data-tempo="temperatura-1"</code> -> Temperatura de amanha
 
-<code>data-tempo="temperatura-2"</code> -> Exibe a temperatura de depois de amanha
+<code>data-tempo="temperatura-2"</code> -> Temperatura daqui há 2 dias
 
-<code>data-tempo="temperatura-3"</code> -> Exibe como estará a temperatura daqui a 2 dias
+<code>data-tempo="temperatura-3"</code> -> Temperatura daqui há 3 dias
 
-<code>data-tempo="temperatura-4"</code> -> Exibe como estará a temperatura daqui a 3 dias
+<code>data-tempo="temperatura-4"</code> -> Temperatura daqui há 4 dias
 
 OBS:*O indice limite para previsão dos próximos dias é 4, sendo assim, so é possivel prever os próximos 4 dias.*
  
