@@ -1,4 +1,4 @@
-# Fh Weather JQuery plugin
+# FHWeather JQuery plugin
 
 ## Como usar
 #### Importar os arquivos
