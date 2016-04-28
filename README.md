@@ -141,3 +141,13 @@ OBS:*O indice limite para previsão dos próximos dias é 4, sendo assim, so é 
  
 Todos os valores dos atributos podem receber um indice, com excessão de:
 <code>data-tempo="humidade"</code>, <code>data-tempo="pressao"</code>, <code>data-tempo="visibilidade"</code>, <code>data-tempo="elevação"</code>, <code>data-tempo="velocidade-vento"</code>, <code>data-tempo="unidade-velocidade"</code>, <code>data-tempo="unidade-distancia"</code>, <code>data-tempo="unidade-pressao"</code>, <code>data-tempo="unidade-temperatura"</code>
+
+#### Dependências
+
+Weather Icons https://erikflowers.github.io/weather-icons/
+
+#### Licença
+
+FH Weather para jQuery é distribuído gratuitamente sob os termos de um estilo MIT [licença](LICENSE.md) .
+
+Nota de direitos autorais e aviso de permissão devem ser incluídos em todas as cópias ou partes substanciais do Software.
